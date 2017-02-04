@@ -6,7 +6,13 @@
  */
 
 import Foundation
-import Firebase
+import FirebaseAnalytics
+import FirebaseAuth
+import FirebaseCore
+import FirebaseDatabase
+import FirebaseInstanceID
+import FirebaseStorage
+
 
 public extension FIRApp {
     

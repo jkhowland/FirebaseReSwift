@@ -8,7 +8,13 @@
 import Foundation
 import Marshal
 import ReSwift
-import Firebase
+import FirebaseAnalytics
+import FirebaseAuth
+import FirebaseCore
+import FirebaseDatabase
+import FirebaseInstanceID
+import FirebaseStorage
+
 
 /// A protocol to be adopted by sub states that hold a flag indicating whether an object
 /// has been subscribed to in Firebase or not.
